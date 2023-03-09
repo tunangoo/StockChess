@@ -8,4 +8,5 @@ class api {
 
     // Create connection
     var myConnection: HttpsURLConnection = lichessEndpoint.openConnection() as HttpsURLConnection
+
 }
