@@ -1,0 +1,2270 @@
+[
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_pgntool.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/pgntool.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_bp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_bp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_bp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_bp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_backspace.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_backspace.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_alpha_wp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_alpha_wp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_wk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_wk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_wq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_wq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_chevron_right.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_chevron_right.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_game_settings.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/game_settings.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_duck.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_duck.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_br.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_br.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_bn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_bn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_chevron_left.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_chevron_left.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_help.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/help.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_elisa_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_elisa_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_player.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_player.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_elisa_wp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_elisa_wp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_br.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_br.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_elisa_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_elisa_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_puzzle.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/puzzle.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_login.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_login.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_logo_2.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_logo_2.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_play.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_play.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_chevron_right.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_chevron_right.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/xml_icsprefs.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/xml/icsprefs.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_feature.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_feature.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_logo.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_br.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_br.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_wn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_wn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_list_ul.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_list_ul.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_bp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_bp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_wn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_wn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_chessboard_prefs.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/chessboard_prefs.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_setup.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/setup.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_br.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_br.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/raw_chesspiecesfall.mp3.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/raw/chesspiecesfall.mp3"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_wq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_wq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_search.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_wb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_wb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_elisa_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_elisa_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_logo_2.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_logo_2.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_elisa_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_elisa_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_br.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_br.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_logo_2.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_logo_2.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_elisa_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_elisa_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_elisa_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_elisa_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_bp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_bp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_clipboard.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_clipboard.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_chevron_right.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_chevron_right.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/color_text_color.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/color/text_color.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_volume_mute.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_volume_mute.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_wn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_wn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout-land_practice.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout-land/practice.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_bn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_bn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/anim_layout.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/anim/layout.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_wn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_wn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_wb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_wb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_elisa_wr.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_elisa_wr.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_chevron_right.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_chevron_right.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_bn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_bn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_elisa_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_elisa_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_elisa_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_elisa_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_play.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/play.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout-land_chessboard_prefs.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout-land/chessboard_prefs.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_bb.png"
+    },
+    {
+        "merged": "stock.android.chess.app-merged_res-31:/layout_play.xml.flat",
+        "source": "stock.android.chess.app-main-35:/layout/play.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_elisa_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_elisa_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_elisa_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_elisa_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_practice.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/practice.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout-land_play.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout-land/play.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_wq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_wq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_bb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_bb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_wq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_wq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_wp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_wp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/menu_start_topmenu.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/menu/start_topmenu.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_elisa_bb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_elisa_bb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_wk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_wk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_challenges.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_challenges.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_loader.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/loader.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_pgn_item.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/pgn_item.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_elisa_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_elisa_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_game_row.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/game_row.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_wn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_wn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/anim_slide_left.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/anim/slide_left.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_wp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_wp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/raw_horseneigh.mp3.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/raw/horseneigh.mp3"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_bk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_bk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_wr.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_wr.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_elisa_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_elisa_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_elisa_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_elisa_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_alpha_bp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_alpha_bp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_elisa_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_elisa_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_chessboard.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/chessboard.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_player_row.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_player_row.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_wb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_wb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_bp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_bp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_elisa_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_elisa_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_seek_row.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_seek_row.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_play_menu.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/play_menu.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_game_row.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_game_row.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout-land_puzzle.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout-land/puzzle.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/xml_game_prefs.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/xml/game_prefs.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_elisa_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_elisa_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_elisa_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_elisa_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_wb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_wb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_square_double_shade.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/square_double_shade.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_br.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_br.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_turnblack.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/turnblack.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_companion_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_companion_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_bq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_bq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_wn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_wn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_button_background.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/button_background.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_elisa_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_elisa_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/raw_smallneigh.mp3.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/raw/smallneigh.mp3"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_bn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_bn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_wr.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_wr.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_icsconfirm.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/icsconfirm.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_bk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_bk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_bn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_bn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_elisa_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_elisa_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_elisa_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_elisa_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_elisa_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_elisa_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_arrow_clockwise.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_arrow_clockwise.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_companion_bq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_companion_bq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_elisa_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_elisa_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_elisa_bn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_elisa_bn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/raw_capture.mp3.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/raw/capture.mp3"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_wp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_wp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_textview.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/textview.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_list_ul.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_list_ul.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_volume_down.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_volume_down.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_three_dots_vertical.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_three_dots_vertical.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_chevron_right.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_chevron_right.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_doimport.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/doimport.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_wr.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_wr.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_bk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_bk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_elisa_bk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_elisa_bk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_list_ul.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_list_ul.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_hand_thumbs_up_fill.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_hand_thumbs_up_fill.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_bq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_bq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_elisa_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_elisa_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_bn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_bn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_chevron_left.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_chevron_left.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_wq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_wq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_bb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_bb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_elisa_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_elisa_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_play_options.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/play_options.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/xml_puzzleprefs.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/xml/puzzleprefs.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_elisa_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_elisa_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_exclamation_triangle.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_exclamation_triangle.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_full_pgn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/full_pgn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_square_single_shade.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/square_single_shade.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_chat.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_chat.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_icon_cpu.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_icon_cpu.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_wk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_wk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_wr.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_wr.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_elisa_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_elisa_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_list_ul.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_list_ul.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_bb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_bb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_sunglasses.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_sunglasses.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_bb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_bb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_elisa_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_elisa_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_plus.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_elisa_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_elisa_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_chevron_left.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_chevron_left.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_elisa_wq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_elisa_wq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_br.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_br.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_wk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_wk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/raw_move.mp3.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/raw/move.mp3"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_arrow_clockwise.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_arrow_clockwise.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout-land_setup.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout-land/setup.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_bk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_bk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/xml_globalprefs.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/xml/globalprefs.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_wb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_wb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_elisa_wb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_elisa_wb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_wk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_wk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_eye.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_wq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_wq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_savegame.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/savegame.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_bb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_bb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_eye_slash.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_eye_slash.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_logo_2.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_logo_2.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_elisa_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_elisa_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_arrow_clockwise.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_arrow_clockwise.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_elisa_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_elisa_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_clock_dialog.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/clock_dialog.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_wk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_wk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_logo_2.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_logo_2.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_companion_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_companion_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_bb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_bb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_wp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_wp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_wn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_wn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_elisa_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_elisa_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/raw_horserunaway.mp3.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/raw/horserunaway.mp3"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_share_fill.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_share_fill.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_check.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_arrow_clockwise.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_arrow_clockwise.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_chevron_left.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_chevron_left.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_border.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/border.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_elisa_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_elisa_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_elisa_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_elisa_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_bk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_bk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_client.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_client.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_arrow_clockwise.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_arrow_clockwise.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_bq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_bq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_bb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_bb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_companion_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_companion_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_customcommands.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/customcommands.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_br.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_br.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_companion_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_companion_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_check_none.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_check_none.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_companion_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_companion_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_bk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_bk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_wr.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_wr.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_turnwhite.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/turnwhite.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_bq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_bq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_elisa_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_elisa_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_gameslist.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/gameslist.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_over.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_over.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_list_ul.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_list_ul.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_stored_row.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_stored_row.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_bk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_bk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_elisa_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_elisa_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_list_ul.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_list_ul.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_icon_play.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_icon_play.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_bq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_bq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_wr.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_wr.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_bp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_bp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_chevron_left.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_chevron_left.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_elisa_br.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_elisa_br.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_elisa_bp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_elisa_bp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_wr.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_wr.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_wq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_wq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_elisa_wk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_elisa_wk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_start_foss.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/start_foss.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_elisa_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_elisa_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout-land_ics_play.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout-land/ics_play.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_wb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_wb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_chevron_left.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_chevron_left.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_wr.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_wr.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_elisa_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_elisa_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_elisa_wn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_elisa_wn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_wb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_wb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_wk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_wk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_chevron_right.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_chevron_right.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_wq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_wq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_list_ul.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_list_ul.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_start_list_single.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/start_list_single.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_chevron_left.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_chevron_left.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_merida_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_merida_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_elisa_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_elisa_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_california_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_california_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_wp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_wp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_alpha_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_alpha_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_elisa_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_elisa_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_elisa_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_elisa_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/anim_slide_right.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/anim/slide_right.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_merida_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_merida_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_merida_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_merida_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_elisa_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_elisa_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_wb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_wb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_elisa_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_elisa_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_staunty_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_staunty_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/raw_horsesnort.mp3.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/raw/horsesnort.mp3"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_elisa_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_elisa_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_br.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_br.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_alpha_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_alpha_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_merida_wp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_merida_wp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_merida_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_merida_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_wb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_wb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_wk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_wk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_bb.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_bb.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_bq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_bq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_elisa_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_elisa_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_color_picker_dialog.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/color_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_california_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_california_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_welcome.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_welcome.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_chessnut_wp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_chessnut_wp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_staunty_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_staunty_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/xml_global_prefs.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/xml/global_prefs.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_kosal_bp.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_kosal_bp.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_alpha_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_alpha_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_staunty_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_staunty_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_california_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_california_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_elisa_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_elisa_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_leipzig_bn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_leipzig_bn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_match.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_match.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_banner.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/banner.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/raw_ticktock.mp3.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/raw/ticktock.mp3"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_elisa_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_elisa_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_select.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_select.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable_ic_pieces_companion_wn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/drawable/ic_pieces_companion_wn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_start.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/start.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_bk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_bk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_staunty_bp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_staunty_bp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_elisa_bq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_elisa_bq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_staunty_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_staunty_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_california_bk.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_california_bk.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_ics_console.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/ics_console.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_staunty_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_staunty_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_alpha_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_alpha_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_elisa_wq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_elisa_wq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_companion_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_companion_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_arrow_clockwise.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_arrow_clockwise.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xhdpi_ic_pieces_california_wn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xhdpi/ic_pieces_california_wn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-hdpi_ic_pieces_california_bq.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-hdpi/ic_pieces_california_bq.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_elisa_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_elisa_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_california_bn.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_california_bn.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_logo_2.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_logo_2.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_alpha_bq.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_alpha_bq.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/layout_menu_item.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-main-35:/layout/menu_item.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_arrow_clockwise.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_arrow_clockwise.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_pieces_staunty_bn.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_pieces_staunty_bn.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxxhdpi_ic_pieces_alpha_bb.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxxhdpi/ic_pieces_alpha_bb.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-mdpi_ic_pieces_alpha_wk.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-mdpi/ic_pieces_alpha_wk.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-anydpi-v24_ic_chevron_right.xml.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-anydpi-v24/ic_chevron_right.xml"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_pieces_merida_wr.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_pieces_merida_wr.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-xxhdpi_ic_pieces_merida_wp.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-xxhdpi/ic_pieces_merida_wp.png"
+    },
+    {
+        "merged": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-merged_res-31:/drawable-ldpi_ic_logo_2.png.flat",
+        "source": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-foss-26:/drawable-ldpi/ic_logo_2.png"
+    }
+]

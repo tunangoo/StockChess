@@ -1,0 +1,2 @@
+[armeabi-v7a] Compile++ thumb: chess-jni <= chess-jni.cpp
+[armeabi-v7a] SharedLibrary  : libchess-jni.so

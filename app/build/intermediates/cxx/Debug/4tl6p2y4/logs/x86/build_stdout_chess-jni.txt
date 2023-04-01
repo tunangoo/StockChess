@@ -1,0 +1,2 @@
+[x86] Compile++      : chess-jni <= chess-jni.cpp
+[x86] SharedLibrary  : libchess-jni.so
