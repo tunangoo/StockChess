@@ -6,9 +6,9 @@
     "deprecated": false,
     "default": true
   },
-  "cxxBuildFolder": "/home/tako/code/git/android-chess/app/build/.cxx/Debug/4tl6p2y4/x86_64",
-  "soFolder": "/home/tako/code/git/android-chess/app/build/intermediates/cxx/Debug/4tl6p2y4/obj/local/x86_64",
-  "soRepublishFolder": "/home/tako/code/git/android-chess/app/build/intermediates/ndkBuild/playStoreDebug/obj/local/x86_64",
+  "cxxBuildFolder": "/home/tako/code/android/StockChess/app/build/.cxx/Debug/4tl6p2y4/x86_64",
+  "soFolder": "/home/tako/code/android/StockChess/app/build/intermediates/cxx/Debug/4tl6p2y4/obj/local/x86_64",
+  "soRepublishFolder": "/home/tako/code/android/StockChess/app/build/intermediates/ndkBuild/playStoreDebug/obj/local/x86_64",
   "abiPlatformVersion": 21,
   "variant": {
     "buildSystemArgumentList": [],
@@ -23,13 +23,13 @@
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "/home/tako/code/git/android-chess/app/build/.cxx",
-      "intermediatesBaseFolder": "/home/tako/code/git/android-chess/app/build/intermediates",
-      "intermediatesFolder": "/home/tako/code/git/android-chess/app/build/intermediates/cxx",
+      "cxxFolder": "/home/tako/code/android/StockChess/app/build/.cxx",
+      "intermediatesBaseFolder": "/home/tako/code/android/StockChess/app/build/intermediates",
+      "intermediatesFolder": "/home/tako/code/android/StockChess/app/build/intermediates/cxx",
       "gradleModulePathName": ":app",
-      "moduleRootFolder": "/home/tako/code/git/android-chess/app",
-      "moduleBuildFile": "/home/tako/code/git/android-chess/app/build.gradle",
-      "makeFile": "/home/tako/code/git/android-chess/native/project/jni/Android.mk",
+      "moduleRootFolder": "/home/tako/code/android/StockChess/app",
+      "moduleBuildFile": "/home/tako/code/android/StockChess/app/build.gradle",
+      "makeFile": "/home/tako/code/android/StockChess/native/project/jni/Android.mk",
       "buildSystem": "NDK_BUILD",
       "ndkFolder": "/home/tako/Android/Sdk/ndk/25.2.9519653",
       "ndkVersion": "25.2.9519653",
@@ -90,10 +90,10 @@
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "/home/tako/code/git/android-chess",
+        "rootBuildGradleFolder": "/home/tako/code/android/StockChess",
         "sdkFolder": "/home/tako/Android/Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
-        "ideBuildTargetAbi": "x86_64",
+        "ideBuildTargetAbi": "x86_64,x86",
         "isCmakeBuildCohabitationEnabled": false,
         "isPrefabEnabled": false
       },
@@ -108,20 +108,20 @@
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "/home/tako/code/git/android-chess/app/build/.cxx/Debug/4tl6p2y4/prefab/x86_64",
+  "prefabFolder": "/home/tako/code/android/StockChess/app/build/.cxx/Debug/4tl6p2y4/prefab/x86_64",
   "isActiveAbi": true,
   "fullConfigurationHash": "4tl6p2y4w1e1g2x2v5e342s3k6m1c4h4o84o2k1h166x4o5s5e716g6g165i4c",
   "fullConfigurationHashKey": "# Values used to calculate the hash in this folder name.\n# Should not depend on the absolute path of the project itself.\n#   - AGP: 7.4.2.\n#   - $NDK is the path to NDK 25.2.9519653.\n#   - $PROJECT is the path to the parent folder of the root Gradle build file.\n#   - $ABI is the ABI to be built with. The specific value doesn\u0027t contribute to the value of the hash.\n#   - $HASH is the hash value computed from this text.\nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d$PROJECT/native/project/jni/Android.mk\nNDK_APPLICATION_MK\u003d$PROJECT/native/project/jni/Application.mk\nAPP_ABI\u003d$ABI\nNDK_ALL_ABIS\u003d$ABI\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-21\nNDK_OUT\u003d$PROJECT/app/build/intermediates/cxx/Debug/$HASH/obj\nNDK_LIBS_OUT\u003d$PROJECT/app/build/intermediates/cxx/Debug/$HASH/lib",
   "configurationArguments": [
     "NDK_PROJECT_PATH\u003dnull",
-    "APP_BUILD_SCRIPT\u003d/home/tako/code/git/android-chess/native/project/jni/Android.mk",
-    "NDK_APPLICATION_MK\u003d/home/tako/code/git/android-chess/native/project/jni/Application.mk",
+    "APP_BUILD_SCRIPT\u003d/home/tako/code/android/StockChess/native/project/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/home/tako/code/android/StockChess/native/project/jni/Application.mk",
     "APP_ABI\u003dx86_64",
     "NDK_ALL_ABIS\u003dx86_64",
     "NDK_DEBUG\u003d1",
     "APP_PLATFORM\u003dandroid-21",
-    "NDK_OUT\u003d/home/tako/code/git/android-chess/app/build/intermediates/cxx/Debug/4tl6p2y4/obj",
-    "NDK_LIBS_OUT\u003d/home/tako/code/git/android-chess/app/build/intermediates/cxx/Debug/4tl6p2y4/lib"
+    "NDK_OUT\u003d/home/tako/code/android/StockChess/app/build/intermediates/cxx/Debug/4tl6p2y4/obj",
+    "NDK_LIBS_OUT\u003d/home/tako/code/android/StockChess/app/build/intermediates/cxx/Debug/4tl6p2y4/lib"
   ],
-  "intermediatesParentFolder": "/home/tako/code/git/android-chess/app/build/intermediates/cxx/Debug/4tl6p2y4"
+  "intermediatesParentFolder": "/home/tako/code/android/StockChess/app/build/intermediates/cxx/Debug/4tl6p2y4"
 }

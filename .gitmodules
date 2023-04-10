@@ -1,0 +1,3 @@
+[submodule "native/project/stockfish"]
+	path = native/project/stockfish
+	url = https://github.com/official-stockfish/Stockfish

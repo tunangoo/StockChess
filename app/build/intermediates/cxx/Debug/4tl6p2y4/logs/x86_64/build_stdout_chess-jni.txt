@@ -1,1 +1,6 @@
-make: Nothing to be done for 'chess-jni'.
+[x86_64] Compile++      : chess-jni <= chess-jni.cpp
+[x86_64] Compile++      : chess-jni <= Pos.cpp
+[x86_64] Compile++      : chess-jni <= Move.cpp
+[x86_64] Compile++      : chess-jni <= ChessBoard.cpp
+[x86_64] Compile++      : chess-jni <= Game.cpp
+[x86_64] SharedLibrary  : libchess-jni.so

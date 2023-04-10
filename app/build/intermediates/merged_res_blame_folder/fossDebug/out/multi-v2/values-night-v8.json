@@ -4,75 +4,7 @@
             "outputFile": "stock.android.chess.app-mergeFossDebugResources-29:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/tako/code/git/android-chess/app/src/main/res/values-night/colors.xml",
-                    "from": {
-                        "startLines": "-1,2,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,4,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,55,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "-1,46,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "-1,97,-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,105,152,203,257,306,359,415,462,513",
-                        "endColumns": "49,46,50,53,48,52,55,46,50,55",
-                        "endOffsets": "100,147,198,252,301,354,410,457,508,564"
-                    }
-                },
-                {
-                    "source": "/home/tako/.gradle/caches/transforms-3/7150bbbc28a6cc20e74957f2e3950457/transformed/appcompat-1.5.0/res/values-night-v8/values-night-v8.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "30,31,32,33,34,35,36,62",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "1715,1785,1869,1953,2049,2151,2253,5108",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "1780,1864,1948,2044,2146,2248,2342,5192"
-                    }
-                },
-                {
-                    "source": "/home/tako/code/git/android-chess/app/src/main/res/values-night/themes.xml",
-                    "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
-                    },
-                    "to": {
-                        "startLines": "12,21",
-                        "startColumns": "4,4",
-                        "startOffsets": "569,1136",
-                        "endLines": "20,29",
-                        "endColumns": "12,12",
-                        "endOffsets": "1131,1710"
-                    }
-                },
-                {
-                    "source": "/home/tako/.gradle/caches/transforms-3/4cc60e9df9f0614a196ff2f5808e7e03/transformed/material-1.8.0/res/values-night-v8/values-night-v8.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,63,64,65,66,67,68,69,70",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2347,2422,2533,2622,2723,2830,2937,3036,3143,3246,3334,3458,3560,3662,3778,3880,3994,4122,4238,4360,4496,4616,4750,4870,4982,5197,5314,5438,5568,5690,5828,5962,6078",
-                        "endColumns": "74,110,88,100,106,106,98,106,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
-                        "endOffsets": "2417,2528,2617,2718,2825,2932,3031,3138,3241,3329,3453,3555,3657,3773,3875,3989,4117,4233,4355,4491,4611,4745,4865,4977,5103,5309,5433,5563,5685,5823,5957,6073,6193"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/tako/.gradle/daemon/8.0.2/stock.android.chess.app-mergeFossDebugResources-29:/values-night-v8/values-night-v8.xml",
-            "map": [
-                {
-                    "source": "/home/tako/code/git/android-chess/app/src/main/res/values-night/colors.xml",
+                    "source": "/home/tako/code/android/StockChess/app/src/main/res/values-night/colors.xml",
                     "from": {
                         "startLines": "8,2,6,3,4,7,5,10,11,9",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -106,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/tako/code/git/android-chess/app/src/main/res/values-night/themes.xml",
+                    "source": "/home/tako/code/android/StockChess/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "11,1",
                         "startColumns": "4,4",
