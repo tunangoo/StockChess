@@ -19,15 +19,20 @@ import java.util.Locale;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
+
+import stock.android.chess.R;
+import stock.android.chess.lichessClient.LichessClient;
 import stock.android.chess.ChessPreferences;
 import stock.android.chess.HtmlActivity;
-import stock.android.chess.R;
 import stock.android.chess.ics.ICSClient;
+import stock.android.chess.lichessClient.LichessInterface;
+import stock.android.chess.lichessClient.pojo.UserEmail;
 import stock.android.chess.play.PlayActivity;
-import stock.android.chess.practice.PracticeActivity;
 import stock.android.chess.puzzle.PuzzleActivity;
 import stock.android.chess.tools.AdvancedActivity;
-
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
 
 public class StartBaseActivity  extends AppCompatActivity {
     public static final String TAG = "StartBaseActivity";
@@ -68,6 +73,22 @@ public class StartBaseActivity  extends AppCompatActivity {
         }
 
         setContentView(layoutResource);
+        LichessInterface apiInterface = LichessClient.getClient().create(LichessInterface.class);
+        Call<UserEmail> call = apiInterface.doGetUserEmail();
+        call.enqueue(new Callback<UserEmail>() {
+            @Override
+            public void onResponse(Call<UserEmail> call, Response<UserEmail> response) {
+                Log.d("EMAIL_Status: ", response.code()+"");
+                UserEmail ue = response.body();
+                Log.d("EMAIL: ", ue.email);
+            }
+
+            @Override
+            public void onFailure(Call<UserEmail> call, Throwable t) {
+                Log.d("Email", "Fail as fuck");
+                call.cancel();
+            }
+        });
 
         _list = findViewById(R.id.ListStart);
         _list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
