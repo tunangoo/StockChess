@@ -5,10 +5,10 @@ Ngô Văn Tuân 21020031
 
 # Danh sách các chức năng của ứng dụng:
 - [x] Chơi cờ vua và các biến thể khác như (Crazyhouse, Chess960, Horde, ...)
-- [ ] Chơi online với người khác
-- [ ] Chơi offline với bot AI hay với bạn của mình (2 người có thể bấm cùng lúc với multitouch)
+- [x] Chơi online với người khác
+- [x] Chơi offline với bot AI hay với bạn của mình (2 người có thể bấm cùng lúc với multitouch)
 - [ ] Các chế độ time control như Bullet (Cờ 1-2 phút), Blitz (3-8 phút), Rapid (10-20 phút) hay Classical (Hơn 1 tiếng)
-- [ ] Load và save các trận cờ (Có thể chụp 1 bức hình và máy sẽ tự động đọc bàn cờ đó)
+- [x] Load và save các trận cờ (Có thể chụp 1 bức hình và máy sẽ tự động đọc bàn cờ đó)
 - [ ] Khả năng phân tích một trận đấu (Stockfish integration)
 - [x] Đăng ký: Người dùng chọn username, password, email cho tài khoản của mình
 - [x] Đăng nhập: Hỗ trợ login with google, facebook, lichess, etc
