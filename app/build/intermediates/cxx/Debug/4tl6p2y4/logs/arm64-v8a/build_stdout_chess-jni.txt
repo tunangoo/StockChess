@@ -1,2 +1,0 @@
-[arm64-v8a] Compile++      : chess-jni <= chess-jni.cpp
-[arm64-v8a] SharedLibrary  : libchess-jni.so
