@@ -33,6 +33,7 @@ import stock.android.chess.tools.AdvancedActivity;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
+import stock.android.chess.watch.WatchActivity;
 
 public class StartBaseActivity  extends AppCompatActivity {
     public static final String TAG = "StartBaseActivity";
@@ -126,6 +127,10 @@ public class StartBaseActivity  extends AppCompatActivity {
                         startActivityForResult(i, 0);
                     } else if (requestedItem.equals(getString(R.string.start_boardpreferences))) {
                         i.setClass(StartBaseActivity.this, BoardPreferencesActivity.class);
+                        startActivity(i);
+                    } else if (requestedItem.equals(getString(R.string.start_watch))) {
+                        i.setClass(StartBaseActivity.this, WatchActivity.class);
+                        i.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
                         startActivity(i);
                     } else {
                         Log.d(TAG, "Nothing to start");
