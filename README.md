@@ -7,14 +7,14 @@ Ngô Văn Tuân 21020031
 - [x] Chơi cờ vua và các biến thể khác như (Crazyhouse, Chess960, Horde, ...)
 - [x] Chơi online với người khác
 - [x] Chơi offline với bot AI hay với bạn của mình (2 người có thể bấm cùng lúc với multitouch)
-- [ ] Các chế độ time control như Bullet (Cờ 1-2 phút), Blitz (3-8 phút), Rapid (10-20 phút) hay Classical (Hơn 1 tiếng)
+- [x] Các chế độ time control như Bullet (Cờ 1-2 phút), Blitz (3-8 phút), Rapid (10-20 phút) hay Classical (Hơn 1 tiếng)
 - [x] Load và save các trận cờ (Có thể chụp 1 bức hình và máy sẽ tự động đọc bàn cờ đó)
 - [ ] Khả năng phân tích một trận đấu (Stockfish integration)
 - [x] Đăng ký: Người dùng chọn username, password, email cho tài khoản của mình
 - [x] Đăng nhập: Hỗ trợ login with google, facebook, lichess, etc
 - [ ] Tìm kiếm: Tìm kiếm các người dùng khác để thách đấu hoặc tìm trận đấu qua các database cờ vua
 - [ ] Gửi tin nhắn: Bạn có thể gửi tin nhắn để thao túng đối thủ
-- [ ] Integrate youtube để hiển một thư viện video về cờ vua
+- [x] Integrate youtube để hiển một thư viện video về cờ vua
 - [ ] Thêm commentary: Nếu người dùng đi Queen g4 thì text to speech sẽ nói “Queen g4. Now perhaps bishop f4 idea?”
 - [ ] Notification: Khi app được chạy nền, gửi thông báo khi đối thủ đã đi nước cờ hay đã gửi một tin nhắn
 

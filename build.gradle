@@ -5,29 +5,11 @@ buildscript {
         google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.4.2'
+        classpath 'com.android.tools.build:gradle:8.0.0'
     }
-}
-
-plugins {
-    id 'org.jetbrains.kotlin.jvm' version '1.8.20'
 }
 repositories {
     mavenCentral()
-}
-/*
-dependencies {
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
-}*/
-compileKotlin {
-    kotlinOptions {
-        jvmTarget = "11"
-    }
-}
-compileTestKotlin {
-    kotlinOptions {
-        jvmTarget = "11"
-    }
 }
 
 allprojects {

@@ -3,7 +3,9 @@ package stock.android.chess;
 import android.os.Bundle;
 
 import stock.android.chess.activities.StartBaseActivity;
+import stock.android.chess.activities.myapplication.MainActivity;
 
+//public class start extends MainActivity {
 public class start extends StartBaseActivity {
 
     @Override
