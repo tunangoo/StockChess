@@ -3,23 +3,29 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_home">
+    app:startDestination="@+id/login">
 
     <fragment
-        android:id="@+id/nav_home"
-        android:name="stock.android.chess.activities.myapplication.ui.home.HomeFragment"
-        android:label="@string/menu_home"
+        android:id="@+id/login"
+        android:name="stock.android.chess.fragments.ui.login.LoginFragment"
+        android:label="@string/menu_login"
+        tools:layout="@layout/fragment_login" />
+
+    <fragment
+        android:id="@+id/nav_play"
+        android:name="stock.android.chess.fragments.ui.play.PlayFragment"
+        android:label="@string/menu_play"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="stock.android.chess.activities.myapplication.ui.gallery.GalleryFragment"
+        android:name="stock.android.chess.fragments.ui.gallery.GalleryFragment"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="stock.android.chess.activities.myapplication.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_about"
+        android:name="stock.android.chess.fragments.ui.about.AboutFragment"
+        android:label="@string/menu_about"
+        tools:layout="@layout/fragment_about" />
 </navigation>

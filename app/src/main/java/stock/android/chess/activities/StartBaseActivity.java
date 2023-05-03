@@ -28,6 +28,7 @@ import stock.android.chess.ics.ICSClient;
 import stock.android.chess.lichessClient.LichessInterface;
 import stock.android.chess.lichessClient.pojo.UserEmail;
 import stock.android.chess.play.PlayActivity;
+import stock.android.chess.practice.PracticeActivity;
 import stock.android.chess.puzzle.PuzzleActivity;
 import stock.android.chess.tools.AdvancedActivity;
 import retrofit2.Call;
@@ -35,7 +36,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 import stock.android.chess.watch.WatchActivity;
 
-public class StartBaseActivity  extends AppCompatActivity {
+public class StartBaseActivity extends AppCompatActivity {
     public static final String TAG = "StartBaseActivity";
     protected ListView _list;
     protected int layoutResource = R.layout.start;
@@ -104,9 +105,9 @@ public class StartBaseActivity  extends AppCompatActivity {
                         i.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
                         startActivity(i);
                     } else if (requestedItem.equals(getString(R.string.start_practice))) {
-//                        i.setClass(StartBaseActivity.this, PracticeActivity.class);
-//                        i.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
-//                        startActivity(i);
+                        i.setClass(StartBaseActivity.this, PracticeActivity.class);
+                        i.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
+                        startActivity(i);
                     } else if (requestedItem.equals(getString(R.string.start_puzzles))) {
                         i.setClass(StartBaseActivity.this, PuzzleActivity.class);
                         i.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);

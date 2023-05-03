@@ -3,7 +3,7 @@ package stock.android.chess;
 import android.os.Bundle;
 
 import stock.android.chess.activities.StartBaseActivity;
-import stock.android.chess.activities.myapplication.MainActivity;
+import stock.android.chess.fragments.MainActivity;
 
 //public class start extends MainActivity {
 public class start extends StartBaseActivity {

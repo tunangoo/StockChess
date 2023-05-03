@@ -1,4 +1,4 @@
-package stock.android.chess.activities.myapplication.ui.slideshow;
+package stock.android.chess.fragments.ui.about;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,22 +10,22 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import stock.android.chess.databinding.FragmentSlideshowBinding;
+import stock.android.chess.databinding.FragmentAboutBinding;
 
-public class SlideshowFragment extends Fragment {
+public class AboutFragment extends Fragment {
 
-    private FragmentSlideshowBinding binding;
+    private FragmentAboutBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        SlideshowViewModel slideshowViewModel =
-                new ViewModelProvider(this).get(SlideshowViewModel.class);
+        AboutViewModel aboutViewModel =
+                new ViewModelProvider(this).get(AboutViewModel.class);
 
-        binding = FragmentSlideshowBinding.inflate(inflater, container, false);
+        binding = FragmentAboutBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textSlideshow;
-        slideshowViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+        final TextView textView = binding.textAbout;
+        aboutViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 
