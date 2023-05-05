@@ -15,7 +15,7 @@ Ngô Văn Tuân 21020031
 - [ ] Tìm kiếm: Tìm kiếm các người dùng khác để thách đấu hoặc tìm trận đấu qua các database cờ vua
 - [ ] Gửi tin nhắn: Bạn có thể gửi tin nhắn để thao túng đối thủ
 - [x] Integrate youtube để hiển một thư viện video về cờ vua
-- [ ] Thêm commentary: Nếu người dùng đi Queen g4 thì text to speech sẽ nói “Queen g4. Now perhaps bishop f4 idea?”
+- [x] Thêm commentary: Nếu người dùng đi Queen g4 thì text to speech sẽ nói “Queen g4. Now perhaps bishop f4 idea?”
 - [ ] Notification: Khi app được chạy nền, gửi thông báo khi đối thủ đã đi nước cờ hay đã gửi một tin nhắn
 
 Nội dung qua số thứ tự các chức năng của chương trình:

@@ -47,7 +47,7 @@ public class TextToSpeechApi extends TextToSpeech {
         sMoveSpeech = sMoveSpeech.replace("N", "Knight ");
 
         sMoveSpeech = sMoveSpeech.replace("O-O-O", "Castle Queen Side");
-        sMoveSpeech = sMoveSpeech.replace("O-O", "Castle King Side");
+        sMoveSpeech = sMoveSpeech.replace("O-O", "CaRtle King Side");
 
         sMoveSpeech = sMoveSpeech.replace("+", " check");
         sMoveSpeech = sMoveSpeech.replace("#", " checkmate");

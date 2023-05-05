@@ -226,13 +226,13 @@ abstract public class ChessBoardActivity extends BaseActivity implements GameLis
 
         PieceSets.selectedBlindfoldMode = PieceSets.BLINDFOLD_SHOW_PIECES;
 
-        if (prefs.getBoolean("moveToSpeech", false)) {
+        if (prefs.getBoolean("moveToSpeech", true)) {
             textToSpeech = new TextToSpeechApi(this, this);
         } else {
             textToSpeech = null;
         }
 
-        fVolume = prefs.getBoolean("moveSounds", false) ? 1.0f : 0.0f;
+        fVolume = prefs.getBoolean("moveSounds", true) ? 1.0f : 0.0f;
 
         spSound = new SoundPool(7, AudioManager.STREAM_MUSIC, 0);
         soundTickTock = spSound.load(this, R.raw.ticktock, 1);

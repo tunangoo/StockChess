@@ -6,7 +6,7 @@
             android:title="@string/pref_speech"
             android:summary="@string/pref_speech_desc"
             android:key="moveToSpeech"
-            android:defaultValue="false"/>
+            android:defaultValue="true"/>
 
         <CheckBoxPreference
             android:title="@string/pref_eco"

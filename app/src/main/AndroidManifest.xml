@@ -77,7 +77,7 @@
             android:exported="true"
             android:label="@string/app_name_help" />
         <activity
-            android:name=".GlobalPreferencesActivity"
+            android:name="stock.android.chess.activities.GlobalPreferencesActivity"
             android:configChanges="orientation"
             android:exported="true"
             android:label="@string/globalpreferences">
