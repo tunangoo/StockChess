@@ -12,7 +12,7 @@ Ngô Văn Tuân 21020031
 - [ ] Khả năng phân tích một trận đấu (Stockfish integration)
 - [x] Đăng ký: Người dùng chọn username, password, email cho tài khoản của mình
 - [x] Đăng nhập: Hỗ trợ login with google, facebook, lichess, etc
-- [ ] Tìm kiếm: Tìm kiếm các người dùng khác để thách đấu hoặc tìm trận đấu qua các database cờ vua
+- [x] Tìm kiếm: Tìm kiếm các người dùng khác để thách đấu hoặc tìm trận đấu qua các database cờ vua
 - [ ] Gửi tin nhắn: Bạn có thể gửi tin nhắn để thao túng đối thủ
 - [x] Integrate youtube để hiển một thư viện video về cờ vua
 - [x] Thêm commentary: Nếu người dùng đi Queen g4 thì text to speech sẽ nói “Queen g4. Now perhaps bishop f4 idea?”
