@@ -16,15 +16,15 @@ public class ICSPrefs extends BasePreferenceActivity {
 
         addPreferencesFromResource(R.xml.icsprefs);
 
-        Preference prefCustomCommand = findPreference("icscustomcommandHandle");
-        prefCustomCommand.setOnPreferenceClickListener(new OnPreferenceClickListener() {
-            public boolean onPreferenceClick(Preference preference) {
-                Intent intent = new Intent(ICSPrefs.this, CustomCommands.class);
-
-                startActivity(intent);
-                return true;
-            }
-        });
+//        Preference prefCustomCommand = findPreference("icscustomcommandHandle");
+//        prefCustomCommand.setOnPreferenceClickListener(new OnPreferenceClickListener() {
+//            public boolean onPreferenceClick(Preference preference) {
+//                Intent intent = new Intent(ICSPrefs.this, CustomCommands.class);
+//
+//                startActivity(intent);
+//                return true;
+//            }
+//        });
 
     }
 }

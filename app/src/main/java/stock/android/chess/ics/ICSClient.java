@@ -715,16 +715,16 @@ public class ICSClient extends ChessBoardActivity implements ICSListener, Result
         final int[] resources = {
                 R.string.ics_menu_challenges,
                 R.string.ics_menu_seek,
-                R.string.ics_menu_games,
-                R.string.ics_menu_puzzlebot_mate,
-                R.string.ics_menu_puzzlebot_tactics,
-                R.string.ics_menu_puzzlebot_study,
+//                R.string.ics_menu_games,
+//                R.string.ics_menu_puzzlebot_mate,
+//                R.string.ics_menu_puzzlebot_tactics,
+//                R.string.ics_menu_puzzlebot_study,
                 R.string.ics_menu_players,
                 R.string.ics_menu_top_blitz,
-                R.string.ics_menu_top_standard,
+//                R.string.ics_menu_top_standard,
                 R.string.menu_prefs,
-                R.string.ics_menu_console,
-                R.string.menu_help,
+//                R.string.ics_menu_console,
+//                R.string.menu_help,
         };
 
         for (int i = 0; i < resources.length; i++) {
@@ -732,23 +732,23 @@ public class ICSClient extends ChessBoardActivity implements ICSListener, Result
             mapMenu.add(new HashMap<String, String>() {{ put("menu_item", getString(resources[index])); }}) ;
         }
 
-        if (!icsServer.isGuest()) {
-            mapMenu.add(new HashMap<String, String>() {{ put("menu_item", getString(R.string.ics_menu_stored)); }}) ;
-        }
+//        if (!icsServer.isGuest()) {
+//            mapMenu.add(new HashMap<String, String>() {{ put("menu_item", getString(R.string.ics_menu_stored)); }}) ;
+//        }
 
-        try {
-            SharedPreferences prefs = this.getPrefs();
-            final JSONArray jArray = new JSONArray(prefs.getString("ics_custom_commands", CustomCommands.DEFAULT_COMMANDS));
-
-            for (int i = 0; i < jArray.length(); i++) {
-                final int index = i;
-                try {
-                    mapMenu.add(new HashMap<String, String>() {{ put("menu_item", jArray.getString(index)); }}) ;
-                } catch (JSONException e) {
-                }
-            }
-        } catch (JSONException e) {
-        }
+//        try {
+//            SharedPreferences prefs = this.getPrefs();
+//            final JSONArray jArray = new JSONArray(prefs.getString("ics_custom_commands", CustomCommands.DEFAULT_COMMANDS));
+//
+//            for (int i = 0; i < jArray.length(); i++) {
+//                final int index = i;
+//                try {
+//                    mapMenu.add(new HashMap<String, String>() {{ put("menu_item", jArray.getString(index)); }}) ;
+//                } catch (JSONException e) {
+//                }
+//            }
+//        } catch (JSONException e) {
+//        }
 
         adapterMenu.notifyDataSetChanged();
 
