@@ -1,7 +1,9 @@
 # Danh sách nhóm:
-Nguyễn Thành Đạt 21020064 (Trường nhóm)
-Phạm Thanh Sơn 21020027
-Ngô Văn Tuân 21020031
+- Nguyễn Thành Đạt 21020064
+
+- Phạm Thanh Sơn 21020027
+
+- Ngô Văn Tuân 21020031
 
 # Danh sách các chức năng của ứng dụng:
 - [x] Chơi cờ vua và các biến thể khác như (Crazyhouse, Chess960, Horde, ...)
