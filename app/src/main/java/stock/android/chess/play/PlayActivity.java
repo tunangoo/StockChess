@@ -204,10 +204,10 @@ public class PlayActivity extends ChessBoardActivity implements SeekBar.OnSeekBa
         layoutBoardTop.setBackgroundColor(ColorSchemes.getDark());
         layoutBoardBottom.setBackgroundColor(ColorSchemes.getDark());
 
-        textViewOpponent.setTextColor(ColorSchemes.getHightlightColor());
-        textViewMe.setTextColor(ColorSchemes.getHightlightColor());
-        textViewOpponentClock.setTextColor(ColorSchemes.getHightlightColor());
-        textViewMyClock.setTextColor(ColorSchemes.getHightlightColor());
+        textViewOpponent.setTextColor(ColorSchemes.getHighlightColor());
+        textViewMe.setTextColor(ColorSchemes.getHighlightColor());
+        textViewOpponentClock.setTextColor(ColorSchemes.getHighlightColor());
+        textViewMyClock.setTextColor(ColorSchemes.getHighlightColor());
 
         updateClockByPrefs();
 

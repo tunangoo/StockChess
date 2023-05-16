@@ -75,7 +75,7 @@ public class ColorSchemes {
         return colorScheme[selectedColorScheme][0];
     }
 
-    public static int getHightlightColor() {
+    public static int getHighlightColor() {
         return colorScheme[selectedColorScheme][3];
     }
 

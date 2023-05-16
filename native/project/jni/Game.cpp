@@ -211,7 +211,7 @@ void Game::search() {
 
     m_board->calcState(m_boardRefurbish);
 
-    // no need to search if the game has allready ended
+    // no need to search if the game has already ended
     if (m_board->isEnded()) {
         m_bSearching = false;
         return;

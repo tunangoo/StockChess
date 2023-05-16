@@ -83,9 +83,9 @@
 
                 <Button
                     android:id="@+id/ButtonSaveDate"
-                    android:text="YYYY.MM.DD"
                     android:layout_width="200dip"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:text="YYYY.MM.DD" />
             </TableRow>
         </TableLayout>
 

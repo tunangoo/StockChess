@@ -524,19 +524,19 @@ public class ICSClient extends ChessBoardActivity implements ICSListener, Result
         layoutBoardBottom.setBackgroundColor(ColorSchemes.getDark());
 
 
-        _tvPlayerTop.setTextColor(ColorSchemes.getHightlightColor());
-        _tvPlayerBottom.setTextColor(ColorSchemes.getHightlightColor());
+        _tvPlayerTop.setTextColor(ColorSchemes.getHighlightColor());
+        _tvPlayerBottom.setTextColor(ColorSchemes.getHighlightColor());
 
-        _tvPlayerTopRating.setTextColor(ColorSchemes.getHightlightColor());
-        _tvPlayerBottomRating.setTextColor(ColorSchemes.getHightlightColor());
+        _tvPlayerTopRating.setTextColor(ColorSchemes.getHighlightColor());
+        _tvPlayerBottomRating.setTextColor(ColorSchemes.getHighlightColor());
 
-        _tvClockTop.setTextColor(ColorSchemes.getHightlightColor());
-        _tvClockBottom.setTextColor(ColorSchemes.getHightlightColor());
+        _tvClockTop.setTextColor(ColorSchemes.getHighlightColor());
+        _tvClockBottom.setTextColor(ColorSchemes.getHighlightColor());
 
-        _tvBoardNum.setTextColor(ColorSchemes.getHightlightColor());
-        _tvLastMove.setTextColor(ColorSchemes.getHightlightColor());
-        _tvTimePerMove.setTextColor(ColorSchemes.getHightlightColor());
-        _tvMoveNumber.setTextColor(ColorSchemes.getHightlightColor());
+        _tvBoardNum.setTextColor(ColorSchemes.getHighlightColor());
+        _tvLastMove.setTextColor(ColorSchemes.getHighlightColor());
+        _tvTimePerMove.setTextColor(ColorSchemes.getHighlightColor());
+        _tvMoveNumber.setTextColor(ColorSchemes.getHighlightColor());
 
 
         addListeners();

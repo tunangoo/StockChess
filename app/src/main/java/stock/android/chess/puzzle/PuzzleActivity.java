@@ -118,7 +118,7 @@ public class PuzzleActivity extends ChessBoardActivity implements SeekBar.OnSeek
         Log.i(TAG, "onResume");
 
         layoutTurn.setBackgroundColor(ColorSchemes.getDark());
-        tvPuzzleText.setTextColor(ColorSchemes.getHightlightColor());
+        tvPuzzleText.setTextColor(ColorSchemes.getHighlightColor());
 
         loadPuzzles();
 

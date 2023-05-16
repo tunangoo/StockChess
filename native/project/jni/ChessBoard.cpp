@@ -1073,10 +1073,10 @@ void ChessBoard::genExtraKingMoves(const int pos) {
                     if (COL[posRook] == ChessBoard::COL_HROOK && (m_bitbPieces[WHITE][ROOK] & BITS[posRook]) != 0) {
                         // can we castle
                         if (isPosFree(f1) && isPosFree(g1) ||  // both squares free
-                            posRook == f1 && isPosFree(g1) ||  // rook allready on f1, g1 free
+                            posRook == f1 && isPosFree(g1) ||  // rook already on f1, g1 free
                             posRook == g1 && pos == f1 ||      // swap places
                             posRook == g1 && isPosFree(f1) ||  // rook in place of king
-                            pos == g1 && isPosFree(f1) ||      // king allready on g1, f1 free
+                            pos == g1 && isPosFree(f1) ||      // king already on g1, f1 free
                             pos == f1 && isPosFree(g1)         // king on f1 and g1 free
                         ) {
                             // DEBUG_PRINT
@@ -1105,9 +1105,9 @@ void ChessBoard::genExtraKingMoves(const int pos) {
                     if (COL[posRook] == ChessBoard::COL_AROOK && (m_bitbPieces[WHITE][ROOK] & BITS[posRook]) != 0) {
                         // can we castle
                         if (isPosFree(d1) && isPosFree(c1) ||  // d1 and c1 free
-                            posRook == d1 && isPosFree(c1) ||  // rook allready on d1, c1 free
+                            posRook == d1 && isPosFree(c1) ||  // rook already on d1, c1 free
                             posRook == c1 && pos == d1 ||      // swap places
-                            pos == c1 && isPosFree(d1) ||      // king allready on c1
+                            pos == c1 && isPosFree(d1) ||      // king already on c1
                             pos == d1 && isPosFree(c1) ||      // king on d1, c1 free
                             posRook == c1 && isPosFree(d1)     // rook on kings place, d1 free
                         ) {
@@ -1175,7 +1175,7 @@ void ChessBoard::genExtraKingMoves(const int pos) {
     }
 }
 
-// reset the move index, moves are allready generated
+// reset the move index, moves are already generated
 void ChessBoard::getMoves() {
     m_indexMoves = 0;
 }
@@ -2110,7 +2110,7 @@ void ChessBoard::initHashKey() {
     m_hashKey ^= HASH_TURN;
 }
 
-// put a piece on the board. update all applicable memebers - bitb's etc.
+// put a piece on the board. update all applicable members - bitb's etc.
 void ChessBoard::put(const int pos, const int piece, const int turn) {
     BITBOARD bb = BITS[pos];
     m_bitbPieces[turn][piece] |= bb;

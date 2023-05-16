@@ -17,7 +17,7 @@ public class CapturedCountView extends AppCompatTextView {
 
         setWillNotDraw(false);
 
-        setTextColor(ColorSchemes.getHightlightColor());
+        setTextColor(ColorSchemes.getHighlightColor());
 
         if (count > 0) {
             setText("" + count);

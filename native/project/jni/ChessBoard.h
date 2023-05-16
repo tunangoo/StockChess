@@ -17,12 +17,12 @@ class ChessBoard {
     static const int CHECK = 2;
     static const int INVALID = 3;        // can be used when setting up a new position
     static const int DRAW_MATERIAL = 4;  // no one can win (ie KING against KING)
-    static const int DRAW_50 = 5;        // after 25 full moves no hit or pawnmove occured
+    static const int DRAW_50 = 5;        // after 25 full moves no hit or pawnmove occurred
     static const int MATE = 6;
     static const int STALEMATE = 7;
     static const int DRAW_REPEAT = 8;  // draw by repetition (3 times same board position)
 
-    // array index of data memebers that hold data for either black or white. these must be 0 and 1
+    // array index of data members that hold data for either black or white. these must be 0 and 1
     static const int BLACK = 0;
     static const int WHITE = 1;
 

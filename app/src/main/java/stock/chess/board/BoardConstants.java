@@ -24,7 +24,7 @@ public class BoardConstants {
     public static final int BLACK_RESIGNED = 12;
     public static final int DRAW_AGREEMENT = 13;
 
-    // array index of data memebers that hold data for either black or white. these must be 0 and 1 cause arrays are of length 2
+    // array index of data members that hold data for either black or white. these must be 0 and 1 cause arrays are of length 2
     public static final int BLACK = 0;
     public static final int WHITE = 1;
 
@@ -72,7 +72,7 @@ public class BoardConstants {
             0, 1, 2, 3, 4, 5, 6, 7,
             0, 1, 2, 3, 4, 5, 6, 7};
 
-    // the row or rank seen from the oposite colors is mirrored, so also convenient use from an array
+    // the row or rank seen from the opposite colors is mirrored, so also convenient use from an array
     // first index color, second index position
     public static final int[][] ROW_TURN = {
             {0, 0, 0, 0, 0, 0, 0, 0,

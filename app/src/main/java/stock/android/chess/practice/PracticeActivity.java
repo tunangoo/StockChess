@@ -142,8 +142,8 @@ public class PracticeActivity extends ChessBoardActivity {
         Log.i(TAG, "onResume");
 
         layoutTurn.setBackgroundColor(ColorSchemes.getDark());
-        tvPracticeTime.setTextColor(ColorSchemes.getHightlightColor());
-        tvPracticeMove.setTextColor(ColorSchemes.getHightlightColor());
+        tvPracticeTime.setTextColor(ColorSchemes.getHighlightColor());
+        tvPracticeMove.setTextColor(ColorSchemes.getHighlightColor());
 
         isPlaying = false;
         scheduleTimer();

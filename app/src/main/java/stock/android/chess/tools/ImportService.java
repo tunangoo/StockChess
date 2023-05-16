@@ -328,7 +328,7 @@ public class ImportService extends Service {
 //                l |= (long) bytes[6] << 8;
 //                l |= (long) bytes[7];
 //
-//                // assume file keys are allready unique
+//                // assume file keys are already unique
 //
 //                _arrKeys.add(l);
 //            }
