@@ -92,18 +92,18 @@ public class TimesealingSocket extends Socket implements Runnable {
 
     private final TimesealPipe timesealPipe;
 
-    public TimesealingSocket(InetAddress inetaddress, int i, String intialTimestampString) throws IOException {
+    public TimesealingSocket(InetAddress inetaddress, int i, String initialTimestampString) throws IOException {
         super(inetaddress, i);
-        initialTimesealString = intialTimestampString;
+        initialTimesealString = initialTimestampString;
         timesealPipe = new TimesealPipe(10000);
         init();
     }
 
-    public TimesealingSocket(String s, int i, String intialTimestampString)
+    public TimesealingSocket(String s, int i, String initialTimestampString)
             throws IOException {
         super(s, i);
         timesealPipe = new TimesealPipe(10000);
-        initialTimesealString = intialTimestampString;
+        initialTimesealString = initialTimestampString;
         init();
     }
 

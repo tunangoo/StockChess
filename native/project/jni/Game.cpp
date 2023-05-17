@@ -44,7 +44,7 @@ Game::~Game(void) {
     //    }
 }
 
-// the non thread safe solution; assumption is that getInsance is called before any threads are created
+// the non thread safe solution; assumption is that getInstance is called before any threads are created
 Game *Game::getInstance() {
     if (Game::game == NULL) {
         ChessBoard::initStatics();
@@ -634,7 +634,7 @@ int Game::searchHouse(boolean allowAttack)
 }
 */
 
-// allowAttack, if a new piece on the board is allowed to attack immediatly,
+// allowAttack, if a new piece on the board is allowed to attack immediately,
 // for crazyhouse that's ok, for parachute not
 boolean Game::putPieceHouse(const int pos, const int piece, const boolean allowAttack) {
     ChessBoard *nextBoard = new ChessBoard();

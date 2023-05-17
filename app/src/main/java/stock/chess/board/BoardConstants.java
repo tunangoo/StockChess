@@ -14,7 +14,7 @@ public class BoardConstants {
     public static final int CHECK = 2;
     public static final int INVALID = 3; // only occurs when king can be hit or when invalid number of pieces is on the board (more than one king). can be used when setting up a new position
     public static final int DRAW_MATERIAL = 4; // no one can win (ie KING against KING)
-    public static final int DRAW_50 = 5; // after 25 full moves no hit or pawnmove occured
+    public static final int DRAW_50 = 5; // after 25 full moves no hit or pawnmove occurred
     public static final int MATE = 6;
     public static final int STALEMATE = 7;
     public static final int DRAW_REPEAT = 8; // draw by repetition (3 times same board position)

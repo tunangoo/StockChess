@@ -36,7 +36,7 @@ class ChessBoard {
     // not a piece: a field
     static const int FIELD = -1;
 
-    // Evalutation values
+    // Evaluation values
     static int ARRVALUATION[64];
     static const int INDEX_VALUATION_DRAW_REPEAT = 6;
 
@@ -300,7 +300,7 @@ class ChessBoard {
     boolean areKingsOnTheBoard();
     boolean isEnded();
     boolean checkEnded();
-    int ambigiousMove();
+    int ambiguousMove();
     boolean requestMove(const int from, const int to, ChessBoard* board, ChessBoard* tmpBoard, int promoPiece);
     int isAmbiguousCastle(const int from, const int to);
     int getCastleMove(const int from, const int to);

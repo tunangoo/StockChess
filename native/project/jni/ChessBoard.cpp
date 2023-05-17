@@ -349,9 +349,9 @@ boolean ChessBoard::checkEnded() {
 
 #pragma region Move related methods
 
-// return 0 when move is not ambigious, otherwise the ambigious move.
-// ambigous when pieces of the same kind move to the same destination
-int ChessBoard::ambigiousMove() {
+// return 0 when move is not ambiguous, otherwise the ambiguous move.
+// ambiguous when pieces of the same kind move to the same destination
+int ChessBoard::ambiguousMove() {
     if (m_parent != NULL) {
         ChessBoard* tmpBoard = new ChessBoard();
         m_parent->duplicate(tmpBoard);
@@ -1687,7 +1687,7 @@ void ChessBoard::duplicate(ChessBoard* ret) {
     memcpy(ret, this, SIZEOF_BOARD);
 }
 
-// convinient method to return pointer to first board
+// convenient method to return pointer to first board
 ChessBoard* ChessBoard::getFirstBoard() {
     ChessBoard* ret = this;
     while (ret->m_parent != NULL) {
@@ -2257,7 +2257,7 @@ int ChessBoard::remainingMoves() {
     return m_sizeMoves - m_indexMoves;
 }
 
-// resturns pgn string representation of the move that lead to @board;
+// returns pgn string representation of the move that lead to @board;
 // the move in the m_myMove member of the board
 void ChessBoard::myMoveToString(char* buf) {
     strcpy(buf, "");
@@ -2292,7 +2292,7 @@ void ChessBoard::myMoveToString(char* buf) {
         char tmp[10];
         ChessBoard::pieceToString(this->pieceAt(this->opponentTurn(), Move_getTo(m_myMove)), tmp);
         strcat(buf, tmp);
-        int m = this->ambigiousMove();
+        int m = this->ambiguousMove();
         if (m != 0) {
             const int posFromAmb = Move_getFrom(m);
             const int posFrom = Move_getFrom(m_myMove);

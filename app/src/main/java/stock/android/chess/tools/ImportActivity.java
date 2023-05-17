@@ -150,6 +150,6 @@ public class ImportActivity extends AppCompatActivity implements ImportListener 
     @Override
     public void OnImportFatalError(int mode) {
         _progress.setVisibility(View.INVISIBLE);
-        _tvWorkCnt.setText("An error occured, import failed");
+        _tvWorkCnt.setText("An error occurred, import failed");
     }
 }
