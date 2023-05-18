@@ -14,10 +14,6 @@
         <item name="android:layout_height">@dimen/imageButtonSize</item>
     </style>
 
-    <style name="ChessTextViewStyle" parent="android:Widget.TextView">
-        <item name="android:typeface">sans</item>
-    </style>
-
     <style name="ChessTextAppearance" parent="@android:style/TextAppearance">
         <item name="android:typeface">sans</item>
     </style>
@@ -36,10 +32,6 @@
         <item name="android:paddingBottom">@dimen/headerPaddingY</item>
         <item name="android:paddingLeft">@dimen/headerPaddingX</item>
         <item name="android:paddingRight">@dimen/headerPaddingX</item>
-    </style>
-
-    <style name="MyTitleTextStyle" parent="@style/MyTextStyle">
-        <item name="android:textSize">@dimen/titleTextSize</item>
     </style>
 
     <style name="MyLabelTextStyle">
@@ -64,32 +56,6 @@
         <item name="android:paddingLeft">2dp</item>
         <item name="android:paddingRight">2dp</item>
         <item name="android:textSize">14sp</item>
-    </style>
-
-    <style name="MySmallTextStyle">
-        <item name="android:paddingTop">1dp</item>
-        <item name="android:paddingBottom">1dp</item>
-        <item name="android:paddingLeft">2dp</item>
-        <item name="android:paddingRight">2dp</item>
-        <item name="android:textSize">12sp</item>
-    </style>
-
-    <style name="CaptureImageStyle">
-        <item name="android:layout_height">30dp</item>
-        <item name="android:layout_width">30dp</item>
-    </style>
-
-    <style name="CaptureTextStyle">
-        <item name="android:gravity">center</item>
-        <item name="android:layout_marginLeft">2dp</item>
-        <item name="android:layout_height">wrap_content</item><!-- 14dip -->
-        <item name="android:layout_width">30dp</item>
-        <item name="android:textSize">10sp</item>
-    </style>
-
-    <style name="CaptureTextStyleSmall" parent="@style/CaptureTextStyle">
-        <item name="android:layout_width">16dp</item>
-        <item name="android:layout_marginLeft">0dp</item>
     </style>
 
     <style name="MyRowStyle">

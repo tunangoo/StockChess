@@ -7,7 +7,6 @@
     <color name="primaryTextColor">#fafafa</color>
     <color name="secondaryTextColor">#fafafa</color>
     <color name="backgroundColor">#000000</color>
-    <color name="textOnBackgroundColor">#fafafa</color>
     <color name="surfaceColor">#313244</color>
     <color name="surfaceTextColor">#fafafa</color>
 </resources>
